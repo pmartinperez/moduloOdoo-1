@@ -16,7 +16,7 @@
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
     # for the full list
     'category': 'Uncategorized',
-    'version': '3.0',
+    'version': '4.0',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
@@ -31,6 +31,6 @@
     ],
     # only loaded in demonstration mode
     'demo': [
-        'demo/demo.xml',
+        #'demo/demo.xml',
     ],
 }
